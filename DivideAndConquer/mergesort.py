@@ -40,6 +40,6 @@ def merge(lista, inicio, meio, fim):
         idxDir += 1
         k += 1
 
-vetor = [0, 1, 8, 5, 10]
+vetor = [0, 1, 55, 2, 13, 8, 5, 105, 255, 10]
 mergesort(vetor, 0, len(vetor) - 1)
 print(vetor)
